@@ -1,0 +1,41 @@
+@media (max-width: 992px) {
+
+    #nav{
+        background-color: #fff;
+        box-shadow: 0 0 15px 0px;
+    }
+    #nav ul, #nav .sign {
+        display: none;
+    }
+    .container{
+        width: 100%;
+        padding: 0 15px;
+    }
+    #nav .mobile {
+    display: block;
+    }
+    #nav .container{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* ENTERFACE STARTS */
+ 
+     #banner .container{
+        padding: 20px 15px;
+    }
+    #banner .contains{
+        width: 100%;
+    }
+    #banner .image{
+        width: 100%;
+        text-align: center;
+    }
+
+    /* ENTERFACE ENDS */
+
+
+    /* logos */
+
+    image-rendering: ;
+}
